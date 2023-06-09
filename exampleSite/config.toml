@@ -183,9 +183,9 @@ weight = 3
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Resume"
 weight = 5
-url = "contact/"
+url = "docs/Rithik_Lalchandani_Resume"
 
 [languages.pt-br]
 languageName = ":brazil:"
