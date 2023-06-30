@@ -1,25 +1,78 @@
-+++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
-+++
+# About Rithik Lalchandani
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+![Rithik Lalchandani](https://example.com/rithik_profile_pic.jpg)
 
-Hugo makes use of a variety of open source projects including:
+## Introduction
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Hello, I'm Rithik Lalchandani, a passionate and driven individual with a background in Computer Science and Business Studies. I have a strong interest in the IT sector and a proven track record of success in various technical projects and roles.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## Education and Certifications
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+- Bachelor of Computer Science with a minor in Business Studies, MacEwan University (April 2023)
+  - Graduated with a 3.3 GPA, earning first-class standing from the dean.
+  - Actively participated in the Computer Science Club, volunteering for various events.
+- eJPT Certificate, eLearn Security (April 2020)
+  - Completed the eLearn Junior Penetration Tester certification program.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+## Projects
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+### Remote Plant-Monitoring System
+
+- Developed a project to remotely monitor a hydroponic garden inside MacEwan University.
+- Utilized micro-controllers connected to the cloud to relay real-time plant data.
+- Built an Android app for users to monitor and view the plant data.
+
+### Employee Scheduling Application
+
+- Created an Android application to assist businesses in scheduling their employees using a calendar-based system.
+- Implemented the application using Java and Android Studio.
+
+### Movie-Rental Desktop Application
+
+- Constructed an application for a movie theater that manages movie rentals and tracks customer information.
+- Focused on SQL and data management to ensure efficient tracking and organization of movie rentals.
+
+## Work Experience
+
+### Security Supervisor, Pure Casino Edmonton (Oct. 2020 - Present)
+
+- Assume a leadership role, responsible for protecting all assets within the casino.
+- Ensure compliance with the Alberta Gaming, Liquor & Cannabis (AGLC) regulations.
+- Provide escorts for the movement of money and chips within the casino.
+
+### Technical Support Specialist, 5-Star Driving School (Jan. 2019 - Oct. 2020)
+
+- Provided technical assistance to staff members facing computer system issues.
+- Managed client data and implemented data protection measures.
+- Set up and maintained IT services to enhance productivity and revenue.
+
+## Skills
+
+- GitHub and Git
+- Unix/Windows Based Environments
+- Microsoft Office
+- Network Security
+- SCRUM processes
+- App Development
+- Adobe + Figma
+- AWS, Arduino Cloud
+
+## Programming Languages
+
+- Java
+- C
+- Python
+- Dart
+- Bash
+- SQL
+- SQLite
+- HTML
+- Perl
+
+Feel free to get in touch with me through the following channels:
+
+- Email: lalchandanirithik@gmail.com
+- Phone: (587) 568-5901
+- LinkedIn: [linkedin.com/in/rithik-lalchandani-b935271b8/](https://www.linkedin.com/in/rithik-lalchandani-b935271b8/)
+
+I am open to exciting opportunities in the IT sector and look forward to contributing my skills and knowledge to innovative projects.
