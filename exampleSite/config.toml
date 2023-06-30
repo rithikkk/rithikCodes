@@ -133,12 +133,6 @@ weight = 1
 url = "https://github.com/rithikkk"
 
 [[params.social]]
-name = "Gitlab"
-icon = "fa fa-2x fa-gitlab"
-weight = 2
-url = "https://github.com/rithikkk"
-
-[[params.social]]
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
 weight = 3
@@ -150,19 +144,7 @@ icon = "fa fa-2x fa-linkedin"
 weight = 4
 url = "https://www.linkedin.com/in/rithik-lalchandani-b935271b8/"
 
-[[params.social]]
-name = "Medium"
-icon = "fa fa-2x fa-medium"
-weight = 5
-url = "https://medium.com/@johndoe"
 
-[[params.social]]
-name = "RSS"
-icon = "fa fa-2x fa-rss"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
 
 [languages.en]
 languageName = ":uk:"
