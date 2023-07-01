@@ -16,7 +16,7 @@ author = "Rithik Lalchandani"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Rithik's portfolio"
 keywords = "blog,developer,personal"
-info = ["Aspiring CS Graduate"]
+info = ["Recent Computer Science Graduate @ MacEwan University | Passionate about Software Development and Data Analysis |Seeking Opportunities in the IT industry "]
 avatarURL = "avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
